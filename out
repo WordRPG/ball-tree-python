@@ -1,0 +1,15 @@
+Generating random points.
+Brute forcing random points with nearest neighbors search.
+	 50 | 0.0
+	 47 | 8.80901590913095
+	 31 | 8.919811664629329
+	 89 | 8.969273753352464
+	 69 | 8.979981426797583
+	 9 | 9.041664148889243
+	 3 | 9.075010900412186
+	 54 | 9.080720384897372
+	 7 | 9.085340210126805
+	 76 | 9.089725862248777
+Initializing tree.
+Building tree.
+34
